@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mafugo
-- 👀 I’m interested in AI, ML,and mobile development.
-- 🌱 I’m currently learning Kotlin/ Jetpack Compose
+- 👀 I’m interested in AI, ML, and IoT.
+- 🌱 I’m currently learning Python
 - 📫 How to reach me mahmutfurkangon16400@gmail.com
 
 <!---
